@@ -9,4 +9,3 @@ RF-04. El sistema permitira cancelar e registro de un asistente a una actividad
 RNF-01. La Iinterfaz debera ser accesible desde un navegador wed
 RNF-02. El Sistema debera mantener la informacion debera mantener la informacion del registro de manera persistente 
 
-
